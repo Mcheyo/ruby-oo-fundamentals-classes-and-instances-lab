@@ -1,4 +1,7 @@
  class Dog
 
  end 
- "random string same place"
+
+fido = Dog.new
+snoopy = Dog.new 
+lassie = Dog.new 
